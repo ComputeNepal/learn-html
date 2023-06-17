@@ -31,6 +31,10 @@ Code Editor is program where you will be writing your program. It is one of the 
 
 We recommend **Visual Studio Code ([VS Code](https://code.visualstudio.com/Download/))** for code editor as it is one of the best and feature rich code editor that is used in industry.
 
+:::tip Keep in Mind
+You can write HTML is any text editor like Notepad, Notepad++, Sublime Text, Vim, Neovim, etc.
+:::
+
 ### Extensions
 
 **VS Code** provides you with a lot of extensions that you can install to improve developer experience and also to increase the features. The follow are the extensions that we recommend you to install.
