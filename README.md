@@ -1,5 +1,9 @@
 # Website
 
+***This project is still under development!***
+
+If you want to contribute to this project, you're welcome.
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
