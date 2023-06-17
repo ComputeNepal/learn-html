@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # A Sample HTML Document
 
+Before starting out have a look at the sample HTML document.
+
 ```html title=sample-example.html
 <!DOCTYPE html>
 <html>
