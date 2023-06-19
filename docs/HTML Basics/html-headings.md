@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+keywords: [html, html headings, six headings of html, headings in html, heading syntax]
 ---
 
 # HTML Headings

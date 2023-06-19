@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+keywords: [html, quotes, html quotes, quotes in html, blockquote, cite, abbr, html q]
 ---
 
 # HTML Quotes 

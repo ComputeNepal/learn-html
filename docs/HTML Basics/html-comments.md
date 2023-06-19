@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+keywords: [html, html comments, comments in html, use of comment in html, syntax for comment in html]
 ---
 
 # HTML Comments

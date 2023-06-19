@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+keywords: [html, sample html, basic html]
 ---
 
 # A Sample HTML Document
