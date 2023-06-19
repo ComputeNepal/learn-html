@@ -11,10 +11,10 @@ const config = {
   favicon: "img/ComputeNepal-logo.jpg",
 
   // Set the production url of your site here
-  url: "https://learn-html.computenepal.com/",
+  url: "https://computenepal.com/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/learn-html/",
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
