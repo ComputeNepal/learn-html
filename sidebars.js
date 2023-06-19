@@ -21,6 +21,12 @@ const sidebars = {
       label: "Crash Course Video",
       href: "https://youtu.be/EFXsCatt-q0",
     },
+    {
+      type: "link",
+      label: "More Topics Soon",
+      href: "https://github.com/computenepal/learn-html",
+
+    }
   ],
 
   // But you can create a sidebar manually

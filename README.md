@@ -1,45 +1,44 @@
-# Website
+# Learn HTML By ComputeNepal 
 
 ***This project is still under development!***
 
 If you want to contribute to this project, you're welcome.
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+[![ComputeNepal - learn-html](https://img.shields.io/static/v1?label=ComputeNepal&message=learn-html&color=blue&logo=github)](https://github.com/ComputeNepal/learn-html "Go to GitHub repo")
+[![stars - learn-html](https://img.shields.io/github/stars/ComputeNepal/learn-html?style=social)](https://github.com/ComputeNepal/learn-html)
+[![forks - learn-html](https://img.shields.io/github/forks/ComputeNepal/learn-html?style=social)](https://github.com/ComputeNepal/learn-html)
 
-### Installation
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![issues - learn-html](https://img.shields.io/github/issues/ComputeNepal/learn-html)](https://github.com/ComputeNepal/learn-html/issues)
 
-```
-$ yarn
-```
+Learn HTML by ComputeNepal is a project that is designed in such a way that people can learn HTML in easiest way possible with easy to understand language.
 
-### Local Development
+## Easy to Learn 
 
-```
-$ yarn start
-```
+This is a course of HTML designed by ComputeNepal to help you focus more on learning and improve your knowledge of HTML.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Open Source Curriculum 
 
-### Build
+Course content in this website is open source and is availabe for everyone for free. Anyone can help improve this course curriculum.
 
-```
-$ yarn build
-```
+<!-- Add new codes before this comment -->
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Contributors
 
-### Deployment
+<a href="https://github.com/ComputeNepal/learn-html/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ComputeNepal/learn-html" />
+</a>
 
-Using SSH:
+## Forkers
 
-```
-$ USE_SSH=true yarn deploy
-```
+[![Forkers repo roster for @ComputeNepal/learn-html](https://reporoster.com/forks/ComputeNepal/learn-html)](https://github.com/ComputeNepal/learn-html/network/members)
 
-Not using SSH:
+## Stargazers
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+[![Stargazers repo roster for @ComputeNepal/learn-html](https://reporoster.com/stars/ComputeNepal/learn-html)](https://github.com/ComputeNepal/learn-html/stargazers)
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## License
+
+Released under [MIT](/LICENSE) by [@ComputeNepal](https://github.com/ComputeNepal).
+
+[![Website - Visit ComputeNepal](https://img.shields.io/static/v1?label=Website&message=Visit+ComputeNepal&color=2ea44f&logo=RSS)](https://computenepal.com)
