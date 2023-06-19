@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+keywords: [html, lists, html lists, lists in html, unordered lists, ordered lists, desccriptive list, types of list, html list types]
 ---
 
 # HTML Lists

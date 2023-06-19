@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+keywords: [html, paragraphs, html paragraphs, paragraphs in html, html paragraphs syntax]
 ---
 
 # HTML Paragraphs

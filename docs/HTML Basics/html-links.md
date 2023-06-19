@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+keywords: [html, links, html links, anchor tag in html, link in html, href attribute, open in new tab, a in html]
 ---
 
 # HTML Links

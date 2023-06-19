@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+keywords: [html, tutorial, introduction, introduction to html]
 ---
 
 # Introduction
@@ -42,12 +43,12 @@ You can write HTML is any text editor like Notepad, Notepad++, Sublime Text, Vim
 - **Emmet** : It is one of the most useful extension of VS Code. It is _in-built_ in VS Code but just in case it's not installed by default you can install it from the extension store.
 - **Auto Rename Tag** : It is also one of the most useful extension for HTML development. This helps to rename the closing tag automatically as you rename the opening tag. It saves a lot of time and effort and enhances your developer experience.
 
-  ![Preview](/gif/auto_rename_tag.gif)
+  ![Preview](/gif/auto_rename_tag.gif "Auto Rename Tag Extension")
 
 - **Prettier** : As a developer you not only have to write functional code but also the code that is easy to understand and easy to understand for other developers. Prettier is a extension that helps to prettify/ format your code so that it is easy on eyes and understandable.
 
 - **Live Server** : HTML by default doesn't offer _hot reload_. But you can achieve it with the help of this extension. This extension helps you to reload the application as soon as you make changes to your code.
 
-  ![Preview](/gif/live_server.gif)
+  ![Preview](/gif/live_server.gif "Live Server Extension")
 
 This is it for the development environment. You can explore more to enhance your code editor and personalize it to be yours.

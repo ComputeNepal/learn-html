@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+keywords: [html, tables, html tables, tables in html, tr in html, td in html]
 ---
 
 # HTML Tables

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+keywords: [html, formatting in html, html formatting tags, formatting tags]
 ---
 
 # HTML Formatting

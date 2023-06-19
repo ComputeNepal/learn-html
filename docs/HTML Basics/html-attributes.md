@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+keywords: [html, html attributes, basic html, absolute and relative path, href attribute, src attribute, attributes in html]
 ---
 
 # HTML Attributes
